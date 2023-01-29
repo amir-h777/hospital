@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 import java.util.List;
 
-//adding second changes to develop branch
+//adding second changes to feature-hospital branch
 
 @RestController
 public class DoctorController {
